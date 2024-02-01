@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elif Gür</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=EA782B&center=true&vCenter=true&width=500&height=75&lines=Hello!+I'm+Elif+Gur.)](https://git.io/typing-svg)
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=effy22" alt="effy22" /></a> </p>
